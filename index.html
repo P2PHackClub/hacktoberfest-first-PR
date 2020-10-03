@@ -39,7 +39,6 @@
         class="grid-item discord-widget"
         src="https://canary.discordapp.com/widget?id=663937413818744833&theme=dark"
         allowtransparency="true"
-        frameborder="0"
       ></iframe>
       <li>Go to #verification and send a message. If needed, we will ask for further verification that you are someone from Peak to Peak.</li>
       <li>Wait to be verified. This usually takes a couple of minutes, but it could take up to a day for a server moderator to verify you. Please be patient, because we have a small moderation team!</li>
@@ -71,11 +70,13 @@
         </div>
       </div>
     </div>
-
     <script src="script.js"></script>
     <script>
       // Set the date we're counting down to
-      const countDownDate = new Date("March 18, 2020 17:00").getTime();
+      var nowDate = new Date();
+      var countDownDate = new Date();
+      countDownDate.setDate(nowDate.getDate() + (6 - 1 - nowDate.getDay() + 7) % 1);
+      countDownDate.setHours(17, 0, 0, 0);
       const hour = new Date().getHours();
       console.log(hour);
 
@@ -100,8 +101,7 @@
           days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 
         // If the count down is over, write some text
-        
-        
+
         if (distance < 0) {
           clearInterval(x);
           if (hours <= 18 && hours >= 17) {
