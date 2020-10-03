@@ -66,6 +66,7 @@ h1, h2, h4 {
 }
 
 .grid-item {
+    text-align: center;
     margin: 2vw auto;
   }
 
