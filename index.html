@@ -80,7 +80,7 @@
       // Set the date we're counting down to
       var nowDate = new Date();
       var countDownDate = new Date();
-      countDownDate.setDate(nowDate.getDate() + (6 - 1 - nowDate.getDay() + 7) % 1);
+      countDownDate.setDate(nowDate.getDate() + (6 - 1 - nowDate.getDay() + 7) % 7 + 1);
       countDownDate.setHours(17, 0, 0, 0);
       const hour = new Date().getHours();
       console.log(hour);
