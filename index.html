@@ -78,6 +78,9 @@ a:hover{
     h2,
     h4 {
       text-align: center;
+      /* color updated */
+      color: #a6ade0;
+
     }
 
     footer {
@@ -130,10 +133,45 @@ a:hover{
       font-size: 5vw;
       text-align: center;
     }
+
+    /* added css properties */
+
+      li,
+      p {
+        color: #e4ecd5;
+        line-height: 1.2em;
+      }
+
+      /* buttons to be added for discord join */
+
+      #joinBtn
+      {
+      width: 84px;
+    height: 54px;
+    position: fixed;
+    padding: 4px 4px;
+    top: 8px;
+    right: 10px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+      }
+
+      #joinBtn a{
+        color: white;
+        text-decoration: none;
+      }
+
   </style>
 </head>
 
 <body>
+
+  <button id="joinBtn">
+  <a href="https://discord.com/invite/fSjjXzv" target="_blank">Join Discord</a>
+  </button>
   <p class="alert"><b>ALERT:</b> Pardon our dust! This website going through a major overhaul over the next few weeks! We are going to update the design and functionality of the site to make it more useful and accessible. <a href="mailto:contact@p2phack.club">If something is broken, please tell us!</a></p>
   <h1>Hypixel Game Night</h1>
   <h2>5-6PM+ MST, Every Friday</h2>
