@@ -14,7 +14,6 @@
         url('fonts/minecraft/minecraft-bold-webfont.woff') format('woff');
       font-weight: normal;
       font-style: normal;
-
     }
 
     @font-face {
@@ -23,7 +22,6 @@
         url('fonts/minecraft/minecraft-bolditalic-webfont.woff') format('woff');
       font-weight: normal;
       font-style: normal;
-
     }
 
     @font-face {
@@ -32,7 +30,6 @@
         url('fonts/minecraft/minecraft-italic-webfont.woff') format('woff');
       font-weight: normal;
       font-style: normal;
-
     }
 
     @font-face {
@@ -41,20 +38,21 @@
         url('fonts/minecraft/minecraft-regular-webfont.woff') format('woff');
       font-weight: normal;
       font-style: normal;
-
     }
 
-    a {color:#1a7332;
+    a {
+    color:#1a7332;
     text-decoration:none;
     font-weight:bold;
-    transition:color 1s; 
-    
+    transition:color 1s;
     }
-a:hover{
-  color:#114f21;
-  text-decoration:underline;
-  transition:color 1s; 
-  }
+
+    a:hover {
+      color:#114f21;
+      text-decoration:underline;
+      transition:color 1s;
+    }
+
     html {
       font-family: 'Overlock', cursive;
       background-color: #25506b;
@@ -136,33 +134,32 @@ a:hover{
 
     /* added css properties */
 
-      li,
-      p {
-        color: #e4ecd5;
-        line-height: 1.2em;
-      }
+    li,
+    p {
+      color: #e4ecd5;
+      line-height: 1.2em;
+    }
 
-      /* buttons to be added for discord join */
+    /* buttons to be added for discord join */
 
-      #joinBtn
-      {
-      width: 84px;
-      height: 54px;
-      position: fixed;
-      padding: 4px 4px;
-      top: 8px;
-      right: 10px;
+    #joinBtn {
+    width: 84px;
+    height: 54px;
+    position: fixed;
+    padding: 4px 4px;
+    top: 8px;
+    right: 10px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    }
+
+    #joinBtn a {
       color: white;
-      background-color: black;
-      border: 1px solid white;
-      border-radius: 8px;
-      cursor: pointer;
-      }
-
-      #joinBtn a{
-        color: white;
-        text-decoration: none;
-      }
+      text-decoration: none;
+    }
 
   </style>
 </head>
