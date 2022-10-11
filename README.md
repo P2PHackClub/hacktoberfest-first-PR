@@ -4,7 +4,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 
 
-Website for our first timers/club members to add to! Anyone is welcome to submit their HTML, CSS, Javascript, and beyond commits! 
+Website for our first timers/club members to add to! Anyone is welcome to submit their commits in HTML, CSS, Javascript, and beyond! 
 
 ## Contributing
 
