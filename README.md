@@ -21,10 +21,8 @@ Hello Hacktoberfest contributors! P2P Hack Club is participating in Hacktoberfes
 Before you start, please read our [Code of Conduct](https://www.p2phack.club/conduct).
 
 1. Choose one of our [participating repositories](https://github.com/P2PHackClub):
-      * **[P2PHackClub/website](https://github.com/P2PHackClub/website/)** - main website
+      * **[P2PHackClub/website](https://github.com/P2PHackClub/website/)** - main website!
       * **[P2PHackClub/hacktoberfest-first-PR](https://github.com/P2PHackClub/hacktoberfest-first-PR)** - website for the Hacktoberfest Event!
-      * **[P2PHackClub/among-us-game-night-website](https://github.com/P2PHackClub/among-us-game-night-website)** - website for the AUGN community event
-      * **[P2PHackClub/community](https://github.com/P2PHackClub/community)** - all of P2P Hack Club's community documents
 2. Look through the issues (in the issues tab), and find a feature to contribute/a bug to fix.
       * **TIP:** Issues labeled [*"first-timers-only*](https://www.firsttimersonly.com) are for first time contributors. These issues are generally simple fixes to help you get the hang of the contribution process.
       * If there aren't any issues, create one! There's always something to improve, even if someone hasn't asked for a specific improvement yet.
