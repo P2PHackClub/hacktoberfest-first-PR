@@ -1,28 +1,28 @@
-# hypixel-game-night-website
+# Hacktoberfest/first PR website! 
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2021/P2PHackClub/hypixel-game-night-website)
 
-Website for Hypixel Game Night, a nightly game night where hackers in P2P Hack Club can hang out and play Minecraft together!
+
+Website for our first timers/club members to add to! Anyone is welcome to submit their HTML, CSS, Javascript, and beyond commits! 
 
 ## Contributing
 
 ### Hacktoberfest
-![Hacktoberfest 2021 Banner](https://user-images.githubusercontent.com/18013689/136124188-d4fb5a94-9361-49ef-b72c-94fe8b00f0e8.png)
+![Hacktoberfest 2022 Banner](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2021/P2PHackClub/hypixel-game-night-website)
 
-Hello Hacktoberfest contributors! P2P Hack Club is participating in Hacktoberfest 2021 this year! If you didn't know, Hacktoberfest is an annual event for the month of October encouraging participation in the open source community. If you complete the 2021 challenge, you can learn a limited edition T-shirt. [For more information, you can check out the Hacktoberfest website here.](https://hacktoberfest.digitalocean.com)
+Hello Hacktoberfest contributors! P2P Hack Club is participating in Hacktoberfest 2022 this year! If you didn't know, Hacktoberfest is an annual event for the month of October encouraging participation in the open source community. If you complete the 2022 challenge, you can learn a limited edition T-shirt. [For more information, you can check out the Hacktoberfest website here.](https://hacktoberfest.digitalocean.com)
 
 #### How to help out P2P Hack Club and win a free T-Shirt!
 
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request).
 
-Before you start, please read our [Code of Conduct](http://community.p2phack.club/CONDUCT.html).
+Before you start, please read our [Code of Conduct](https://www.p2phack.club/conduct).
 
 1. Choose one of our [participating repositories](https://github.com/P2PHackClub):
       * **[P2PHackClub/website](https://github.com/P2PHackClub/website/)** - main website
-      * **[P2PHackClub/hypixel-game-night-website](https://github.com/P2PHackClub/hypixel-game-night-website)** - website for the HGN community event
+      * **[P2PHackClub/hacktoberfest-first-PR](https://github.com/P2PHackClub/hacktoberfest-first-PR)** - website for the Hacktoberfest Event!
       * **[P2PHackClub/among-us-game-night-website](https://github.com/P2PHackClub/among-us-game-night-website)** - website for the AUGN community event
       * **[P2PHackClub/community](https://github.com/P2PHackClub/community)** - all of P2P Hack Club's community documents
 2. Look through the issues (in the issues tab), and find a feature to contribute/a bug to fix.
@@ -37,5 +37,5 @@ Before you start, please read our [Code of Conduct](http://community.p2phack.clu
 This project is licensed under the MIT License. For more information, please check the [LICENSE](LICENSE) file.
 
 ## Code of Conduct
-If you join in or contribute to the P2P Hack Club community in any way, you are encouraged to follow the Code of Conduct while doing so. Please read our Code of Conduct at http://community.p2phack.club/CONDUCT.html.
+If you join in or contribute to the P2P Hack Club community in any way, you are encouraged to follow the Code of Conduct while doing so. Please read our Code of Conduct at https://www.p2phack.club/conduct 
 
