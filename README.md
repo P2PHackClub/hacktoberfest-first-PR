@@ -23,7 +23,7 @@ Before you start, please read our [Code of Conduct](https://www.p2phack.club/con
       * **[P2PHackClub/website](https://github.com/P2PHackClub/website/)** - main website!
       * **[P2PHackClub/hacktoberfest-first-PR](https://github.com/P2PHackClub/hacktoberfest-first-PR)** - website for the Hacktoberfest Event!
 2. Look through the issues (in the issues tab), and find a feature to contribute/a bug to fix.
-      * **TIP:** Issues labeled [*"first-timers-only*](https://www.firsttimersonly.com) are for first time contributors. These issues are generally simple fixes to help you get the hang of the contribution process.
+      * **TIP:** Issues labeled [*"first-timers-only"*](https://www.firsttimersonly.com) are for first time contributors. These issues are generally simple fixes to help you get the hang of the contribution process.
       * If there aren't any issues, create one! There's always something to improve, even if someone hasn't asked for a specific improvement yet.
 3. Address the issue by creating a pull request.
 4. Submit the pull request for review.
