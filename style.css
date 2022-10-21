@@ -13,10 +13,10 @@
   /* COLOR */
   --white: #fff;
   --black: #000;
-  --h1Color: #4cbb85;
+  --h1Color: #eb6123;
   --h1ColorLight: #53ca90;
   --theme: #26baff;
-  --bodyColor: #f4f1de;
+  --bodyColor: #512888;
   --footerBtn: #936639;
 }
 
@@ -39,6 +39,13 @@ h2 {
   text-align: center;
   font-size: 200%;
   padding: 25px;
+}
+
+p{
+  color: var(--h1ColorLight);
+  font-family: var(--rubik);
+  font-size: 24px;
+  text-align: center;
 }
 
 section {
