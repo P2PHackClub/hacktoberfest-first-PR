@@ -1,0 +1,46 @@
+/* importing fonts from google font */
+
+/* »» ROBOTO FONT and »» RUBIK FONT (Combined) */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Rubik:wght@300;400;500;700&display=swap");
+
+/*------------------------------------------------------*/
+
+:root {
+  /* FONTS  */
+  --rubik: "Rubik", sans-serif;
+  --roboto: "Roboto", sans-serif;
+
+  /* COLOR */
+  --white: #fff;
+  --black: #000;
+  --h1Color: #4cbb85;
+  --h1ColorLight: #53ca90;
+  --theme: #26baff;
+  --bodyColor: #f4f1de;
+  --footerBtn: #936639;
+}
+
+/*--------------------------------*/
+
+body {
+  background-color: var(--bodyColor);
+}
+
+h1 {
+  color: var(--h1Color);
+  font-size: 40px;
+  font-family: var(--rubik);
+  text-align: center;
+  padding: 10px;
+}
+
+h2 {
+  font-family: var(--rubik);
+  text-align: center;
+  font-size: 200%;
+  padding: 25px;
+}
+
+section {
+  margin-top: 5rem;
+}
