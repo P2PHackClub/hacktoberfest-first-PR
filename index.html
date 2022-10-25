@@ -12,14 +12,41 @@
       font-size: 24px;
       text-align: center;
     }
+    .start{
+            font-size: 20px;
+            padding: 24px 75px;
+            font-weight: bold;
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease 0s;
+            cursor: pointer;
+            border: none;
+            border-radius: 45px;
+        }
+     .start:hover {
+            background-color: #2EE59D;
+            box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+            color: #fff;
+            transform: translateY(-7px);
+     }
+    body{
+      background-color:blue;
+    }
   </style>
+  <script>
+    function button(){
+      alert("Wow You can press a button");
+      let userInput = prompt("Enter a spooky thing");
+      alert("You like " + userInput);
+    }
+  </script>
 </head>
 
 <body>
-
+  
   <p class="alert"><b>ALERT:</b> Pardon our dust! This website going through a major overhaul over the next few weeks! We are going to update the design and functionality of the site to make it more useful and accessible. <a href="mailto:contact@p2phack.club">If something is broken, please tell us!</a></p>
   <h1>Hacktoberfest + First PRs!</h1>
   <p>This website is dedicated to P2P hack club members to create their first pull requests and to participate in hacktoberfest 2022. Since the member really want free T-Shirts, they will hopefuly commit a lot of pull request to make this website awesome </p>
-</body>
+  <button class = "start" onClick= "button()" >Click me for cool things to happen </button>
+  </body>
 
 </html>
