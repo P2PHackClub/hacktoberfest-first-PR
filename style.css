@@ -24,6 +24,7 @@
 
 body {
   background-color: var(--bodyColor);
+  text-align: center;
 }
 
 h1 {
@@ -51,3 +52,4 @@ p{
 section {
   margin-top: 5rem;
 }
+
