@@ -33,6 +33,7 @@ h1 {
   font-family: var(--rubik);
   text-align: center;
   padding: 10px;
+  transition: font-size 1s, content 2s;
 }
 
 h2 {
@@ -51,5 +52,14 @@ p{
 
 section {
   margin-top: 5rem;
+}
+h1:hover span{
+  display: none;
+}
+h1:hover{
+  font-size: 50px;
+}
+h1:hover:before{
+  content:"BOOOOOOO!!!!";
 }
 
