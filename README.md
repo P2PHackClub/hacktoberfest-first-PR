@@ -9,9 +9,8 @@ Website for our first timers/club members to add to! Anyone is welcome to submit
 ## Contributing
 
 ### Hacktoberfest
-![Hacktoberfest 2022 Banner](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)
 
-Hello Hacktoberfest contributors! P2P Hack Club is participating in Hacktoberfest 2022 this year! If you didn't know, Hacktoberfest is an annual event for the month of October encouraging participation in the open source community. If you complete the 2022 challenge, you can learn a limited edition T-shirt. [For more information, you can check out the Hacktoberfest website here.](https://hacktoberfest.digitalocean.com)
+Hello Hacktoberfest contributors! P2P Hack Club is participating in Hacktoberfest 2023 this year! If you didn't know, Hacktoberfest is an annual event for the month of October encouraging participation in the open source community. If you complete the 2023 challenge, you can learn a limited edition T-shirt. [For more information, you can check out the Hacktoberfest website here.](https://hacktoberfest.com)
 
 #### How to help out P2P Hack Club and win a free T-Shirt!
 
